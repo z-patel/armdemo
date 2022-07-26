@@ -151,7 +151,7 @@
 	},
 	"variables": {
 		"storageAccountName": "[format('bootdiags{0}', uniqueString(resourceGroup().id))]",
-          "vmName": "Simple-vm",
+          "vmName": "bipeen-vm",
 		"nicName": "myVMNic",
 		"addressPrefix": "10.0.0.0/16",
 		"subnetName": "Subnet",
