@@ -9,10 +9,10 @@
       "value": "Password@123"
     },
     "dnsLabelPrefix": {
-      "value": "simple-vm-3e6016c578"
+      "value": "Bipeen-vm-3e6016c578"
     },
     "publicIpName": {
-      "value": "simple-vm-ip"
+      "value": "Bipeen-vm-ip"
     },
     "publicIPAllocationMethod": {
       "value": "Dynamic"
@@ -30,7 +30,7 @@
       "value": "eastus"
     },
     "vmName": {
-      "value": "simple-vm"
+      "value": "Bipeen-vm"
     }
   }
 }
