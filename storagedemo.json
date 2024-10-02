@@ -5,7 +5,7 @@
     {
       "type": "Microsoft.Storage/storageAccounts",
       "apiVersion": "2021-09-01",
-      "name": "fev84545uilo",
+      "name": "bipeen84545uilo",
       "location": "eastus",
       "sku": {
         "name": "Standard_LRS"
