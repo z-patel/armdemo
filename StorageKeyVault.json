@@ -4,21 +4,18 @@
   "parameters": {
     "storageAccountName": {
       "type": "string",
-      "defaultValue": "defaultstorageaccount",
       "metadata": {
         "description": "Name of the storage account."
       }
     },
     "location": {
       "type": "string",
-      "defaultValue": "eastus",
       "metadata": {
         "description": "Location for the storage account."
       }
     },
     "skuName": {
       "type": "string",
-      "defaultValue": "Standard_LRS",
       "allowedValues": ["Standard_LRS", "Standard_GRS", "Standard_ZRS", "Premium_LRS"],
       "metadata": {
         "description": "SKU for the storage account."
