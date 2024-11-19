@@ -15,10 +15,10 @@
       "value": "[reference('bipeenkeyvault', '2019-09-01').secrets['StorageSASToken'].value]"
     },
     "templateBasedUri": {
-      "value": "<your-uri>"
+      "value": "https://demo898.blob.core.windows.net/armartifact"
     },
     "BlobContainerName": {
-      "value": "<your-container-name>"
+      "value": "armartifact"
     }
   }
 }
