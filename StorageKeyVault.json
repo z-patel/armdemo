@@ -23,6 +23,24 @@
       "metadata": {
         "description": "SKU for the storage account."
       }
+    },
+    "SASToken": {
+      "type": "string",
+      "metadata": {
+        "description": "SAS Token for the storage account."
+      }
+    },
+    "templateBasedUri": {
+      "type": "string",
+      "metadata": {
+        "description": "URI used for the template-based resource."
+      }
+    },
+    "BlobContainerName": {
+      "type": "string",
+      "metadata": {
+        "description": "Blob container name in the storage account."
+      }
     }
   },
   "resources": [
