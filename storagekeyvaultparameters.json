@@ -12,7 +12,7 @@
       "value": "Standard_LRS"
     },
     "SASToken": {
-      "value": "[reference('bipeenkeyvault', '2019-09-01').secrets['StorageSASToken'].value]"
+      "value": "sv=2022-11-02&ss=bfqt&srt=sco&sp=rwdlacupiytfx&se=2024-11-20T13:27:11Z&st=2024-11-19T05:27:11Z&spr=https&sig=d82owSxvMe1YsWYsZjqjcuKUzrB%2BWinTLNzCc2JZUng%3D"
     },
     "templateBasedUri": {
       "value": "https://demo898.blob.core.windows.net/armartifact"
