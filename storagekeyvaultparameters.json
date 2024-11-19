@@ -10,6 +10,15 @@
     },
     "skuName": {
       "value": "Standard_LRS"
+    },
+    "SASToken": {
+      "value": "[reference('myKeyVaultName', '1.0', 'Full').secrets['sasTokenName'].value]"
+    },
+    "templateBasedUri": {
+      "value": "<your-uri>"
+    },
+    "BlobContainerName": {
+      "value": "<your-container-name>"
     }
   }
 }
